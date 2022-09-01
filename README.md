@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Qizhe Zhang. You're ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) 👋
 
 <!--
 **Theia-4869/Theia-4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
