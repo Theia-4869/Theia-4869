@@ -48,8 +48,8 @@ I am currently a senior student at [Peking University](https://www.pku.edu.cn/),
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Theia4869&show_icons=true&line_height=21&text_color=c64dff&icon_color=c64dff&bg_color=45,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Anurag's GitHub stats" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theia4869&layout=compact&langs_count=6&text_color=ea6161&icon_color=ea6161&bg_color=45,52fa5a,4dfcff,c64dff&theme=graywhite&hide=jupyter%20notebook,css,cuda" alt="Top Langs" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Theia4869&show_icons=true&line_height=21&text_color=fff&icon_color=fff&bg_color=45,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Anurag's GitHub stats" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theia4869&layout=compact&langs_count=6&text_color=fff&icon_color=fff&bg_color=45,52fa5a,4dfcff,c64dff&theme=graywhite&hide=jupyter%20notebook,css,cuda" alt="Top Langs" />
 </div>
 
 ## Contact
