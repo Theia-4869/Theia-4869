@@ -24,7 +24,12 @@ I am currently a senior student at [Peking University](https://www.pku.edu.cn/),
 
 ### Research Projects
 
-
+<div align="center">
+<a href="https://github.com/Theia4869/BiCross">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=Theia4869&repo=BiCross&theme=buefy" /></a>
+<a href="https://github.com/Theia4869/EMA-and-Ensemble-Lip-Networks">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=Theia4869&repo=EMA-and-Ensemble-Lip-Networks&theme=buefy" /></a>
+</div>
 
 ### Programming Languages
 
