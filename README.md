@@ -20,7 +20,7 @@ I am currently a senior student at [Peking University](https://www.pku.edu.cn/),
 ### Research Interests
 
  - **Computer Vision**: Perception Task and Autonomous Driving
- - **Machine Learning**: Few Shot Learning, Domain Adaptation, Out of Distribution Generalization and Computational Neuroscience
+ - **Machine Learning**: Few Shot Learning, Out of Distribution Generalization and Computational Neuroscience
 
 ### Research Projects
 
