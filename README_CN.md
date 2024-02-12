@@ -15,15 +15,21 @@
 
 ## 关于我
 
-我目前是[北京大学](https://www.pku.edu.cn/)的一名大四年级本科生，就读于智能科学与技术专业([图灵班](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm))。
-同时，我即将在[视频与视觉技术国家工程研究中心](https://idm.pku.edu.cn/)[仉尚航](https://www.shanghangzhang.com/)老师的 BLV 实验室直博。
+我目前是[北京大学](https://www.pku.edu.cn/)[计算机学院](https://cs.pku.edu.cn/)[视频与视觉技术国家工程研究中心 (NELVT)](https://idm.pku.edu.cn/)HMI实验室的一名在读博士生，导师是[仉尚航](https://www.shanghangzhang.com/)教授。我在北京大学获得了图灵班智能方向的荣誉学士学位，同时我还在国家发展研究院取得了经济学双学位。
 
 ### 科研兴趣
 
- - **计算机视觉**：感知任务、无人驾驶
- - **机器学习**：少样本学习、OOD泛化和计算神经科学
+ - **计算机视觉**：视觉基础模型、迁移学习、高效微调、持续学习和自动驾驶。
+ - **机器学习**：对比学习、多专家系统、稀疏训练和计算神经科学。
 
 ### 科研项目
+
+<div align="center">
+<a href="https://github.com/Theia-4869/GPS">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=Theia-4869&repo=GPS&theme=buefy" /></a>
+<a href="https://github.com/Theia-4869/MoSA">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=Theia-4869&repo=MoSA&theme=buefy" /></a>
+</div>
 
 <div align="center">
 <a href="https://github.com/Theia-4869/BiCross">

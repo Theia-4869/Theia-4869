@@ -15,14 +15,21 @@
 
 ## About Me
 
-I am currently a senior student at [Peking University](https://www.pku.edu.cn/), majoring in Intelligence Science and Technology ([Turing Class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm)). And now, I'm a Ph.D. candidate at [NELVT](https://idm.pku.edu.cn/) BLV Lab, advised by Prof. [Shanghang Zhang](https://www.shanghangzhang.com/).
+I am currently a Ph.D. candidate at HMI Lab, [NELVT](https://idm.pku.edu.cn/en), [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn), advised by Prof. [Shanghang Zhang](https://www.shanghangzhang.com/). I received my Bachelor's degree in Artificial Intelligence (Turing Honor Class) from Peking University, where I also obtained a dual degree in Economics from [National School of Development (NSD)](https://en.nsd.pku.edu.cn).
 
 ### Research Interests
 
- - **Computer Vision**: Perception Task and Autonomous Driving
- - **Machine Learning**: Few Shot Learning, Out of Distribution Generalization and Computational Neuroscience
+ - **Computer Vision**: Visual Foundation Models, Transfer Learning, Efficient Tuning, Continual Learning and Autonomous Driving.
+ - **Machine Learning**: Contrastive Learning, Mixture of Experts, Sparse Training and Computational Neuroscience.
 
 ### Research Projects
+
+<div align="center">
+<a href="https://github.com/Theia-4869/GPS">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=Theia-4869&repo=GPS&theme=buefy" /></a>
+<a href="https://github.com/Theia-4869/MoSA">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=Theia-4869&repo=MoSA&theme=buefy" /></a>
+</div>
 
 <div align="center">
 <a href="https://github.com/Theia-4869/BiCross">
