@@ -18,7 +18,7 @@ I am currently a Ph.D. candidate at [HMI Lab](https://pku-hmi-lab.github.io/HMI-
 
 ### 🔭 Research Interests
 
-My research interests lie in computer vision and multimodal learning, including visual foundation models, multimodal large language models, visual complex reasoning, visual token compression, visual continual learning, and embodied artificial intelligence. The overall goal of my research is to develop a large-scale efficient visual perception system with human-like expression, adaptation, and generalization, equipped with powerful abilities including fundamental perception, cognitive reasoning, and autonomous creativity.
+My research interests lie in multimodal large language models, including visual foundation models, vision language models, unified multimodal models, visual complex reasoning, visual model efficiency, and visual continual learning. The overall goal of my research is to develop a large-scale efficient visual perception system with human-like expression, adaptation, and generalization, equipped with powerful abilities including fundamental perception, cognitive reasoning, and autonomous creativity.
 
 ## 📬 Contact
 
